@@ -1,0 +1,4 @@
+adgnews
+=======
+
+ADG architecture finder
